@@ -1,0 +1,9 @@
+There 2 pdf's which are the schematics of the basestation and laser sensor.
+There are also 2 zip files which contain the complete project files for each design.
+These files were made using KiCAD V6.0, and so should work with a current install of 6 or later.
+
+There are also 2 Bill of Material .csv files, which have all the part values.
+
+KiCAD: https://www.kicad.org/download/
+
+Phill Brown

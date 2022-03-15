@@ -1,0 +1,73 @@
+Item,Qty,Reference(s),Value,LibPart,Footprint,Datasheet
+,,BT1,Battery_Cell,Device:Battery_Cell,Battery:BatteryHolder_Keystone_1058_1x2032,~
+,,C1,4u7,Device:C,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,~
+,,C2,0.1,Device:C,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,~
+,,C3,0.1,Device:C,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,~
+,,C4,0.1,Device:C,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,~
+,,C5,4u7,Device:C,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,~
+,,C6,0.1,Device:C,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,~
+,,C7,0.1,Device:C,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,~
+,,C8,22/35V,Device:CP,Capacitor_SMD:C_Elec_5x5.8,
+,,C9,0.1,Device:C,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,~
+,,C10,0.1,Device:C,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,~
+,,C11,22/35V,Device:CP,Capacitor_SMD:C_Elec_5x5.8,
+,,C12,0.1,Device:C,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,~
+,,C13,0.1,Device:C,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,~
+,,C14,0.1,Device:C,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,~
+,,C15,0.1,Device:C,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,~
+,,C16,0.1,Device:C,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,~
+,,C17,0.1,Device:C,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,~
+,,D1,RB068MM-30TR,Device:D_Schottky,Diode_SMD:D_SOD-123,~
+,,D2,SMA6J15A-Q,Device:D_TVS,Diode_SMD:D_SMC,~
+,,F1,1AT,Device:Fuse,Fuse:Fuseholder_Cylinder-5x20mm_Stelvio-Kontek_PTF78_Horizontal_Open,~
+,,H1,~,Mechanical:MountingHole,MountingHole:MountingHole_3.2mm_M3,~
+,,H2,~,Mechanical:MountingHole,MountingHole:MountingHole_3.2mm_M3,~
+,,H3,~,Mechanical:MountingHole,MountingHole:MountingHole_3.2mm_M3,~
+,,H4,~,Mechanical:MountingHole,MountingHole:MountingHole_3.2mm_M3,~
+,,J1,RJ45_Shielded,Connector:RJ45_Shielded,Connector_RJ:RJ45_Ninigi_GE,~
+,,J2,USB_A,Connector:USB_A,Connector_USB:USB_A_Molex_67643_Horizontal, ~
+,,J3,Conn_01x06,Connector_Generic:Conn_01x06,"Connector_Phoenix_MSTB:PhoenixContact_MSTBVA_2,5_6-G-5,08_1x06_P5.08mm_Vertical",~
+,,J4,Conn_01x04,Connector_Generic:Conn_01x04,"Connector_Phoenix_MSTB:PhoenixContact_MSTBVA_2,5_4-G-5,08_1x04_P5.08mm_Vertical",~
+,,JP1,SolderJumper_3_Bridged12,Jumper:SolderJumper_3_Bridged12,Jumper:SolderJumper-3_P1.3mm_Bridged12_Pad1.0x1.5mm,~
+,,JP2,SolderJumper_3_Bridged12,Jumper:SolderJumper_3_Bridged12,Jumper:SolderJumper-3_P1.3mm_Bridged12_Pad1.0x1.5mm,~
+,,JP3,Termination,Jumper:SolderJumper_2_Bridged,Jumper:SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm,~
+,,P1,J1B1211CCD,J1B1211CCD:J1B1211CCD,connector_xtra:J1B1211CCD,
+,,R1,120,Device:R,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,~
+,,R2,10k,Device:R,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,~
+,,R3,10k,Device:R,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,~
+,,R4,10k,Device:R,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,~
+,,SW1,ON_OFF,Connector_Generic:Conn_01x03,"Connector_Phoenix_MSTB:PhoenixContact_MSTBVA_2,5_3-G-5,08_1x03_P5.08mm_Vertical",~
+,,U1,TXB0104PW,Logic_LevelTranslator:TXB0104PW,Package_SO:TSSOP-14_4.4x5mm_P0.65mm,http://www.ti.com/lit/ds/symlink/txb0104.pdf
+,,U2,LT1785xS8,Interface_UART:LT1785xS8,Package_SO:SOIC-8_3.9x4.9mm_P1.27mm,https://www.analog.com/media/en/technical-documentation/data-sheets/LT1785-1785A-1791-1791A.pdf
+,,U3,Teensy4.1,teensy:Teensy4.1,teensy:Teensy41,
+,,U4,OKI-78SR-5_1.5-W36-C,Converter_DCDC:OKI-78SR-5_1.5-W36-C,Converter_DCDC:Converter_DCDC_muRata_OKI-78SR_Vertical,https://power.murata.com/data/power/oki-78sr.pdf
+,,U5,MAX3221,Interface_UART:MAX3221,Package_SO:TSSOP-16_4.4x5mm_P0.65mm,http://www.ti.com/lit/ds/symlink/max3221.pdf
+,,,,,,
+,,,,,,
+,,,,,,
+Collated Components:,,,,,,
+,,,,,,
+Item,Qty,Reference(s),Value,LibPart,Footprint,Datasheet
+1,1,BT1,Battery_Cell,Device:Battery_Cell,Battery:BatteryHolder_Keystone_1058_1x2032,~
+2,2,"C1, C5",4u7,Device:C,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,~
+3,13,"C2, C3, C4, C6, C7, C9, C10, C12, C13, C14, C15, C16, C17",0.1,Device:C,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,~
+4,2,"C8, C11",22/35V,Device:CP,Capacitor_SMD:C_Elec_5x5.8,
+5,1,D1,RB068MM-30TR,Device:D_Schottky,Diode_SMD:D_SOD-123,~
+6,1,D2,SMA6J15A-Q,Device:D_TVS,Diode_SMD:D_SMC,~
+7,1,F1,1AT,Device:Fuse,Fuse:Fuseholder_Cylinder-5x20mm_Stelvio-Kontek_PTF78_Horizontal_Open,~
+8,4,"H1, H2, H3, H4",~,Mechanical:MountingHole,MountingHole:MountingHole_3.2mm_M3,~
+9,1,J1,RJ45_Shielded,Connector:RJ45_Shielded,Connector_RJ:RJ45_Ninigi_GE,~
+10,1,J2,USB_A,Connector:USB_A,Connector_USB:USB_A_Molex_67643_Horizontal, ~
+11,1,J3,Conn_01x06,Connector_Generic:Conn_01x06,"Connector_Phoenix_MSTB:PhoenixContact_MSTBVA_2,5_6-G-5,08_1x06_P5.08mm_Vertical",~
+12,1,J4,Conn_01x04,Connector_Generic:Conn_01x04,"Connector_Phoenix_MSTB:PhoenixContact_MSTBVA_2,5_4-G-5,08_1x04_P5.08mm_Vertical",~
+13,2,"JP1, JP2",SolderJumper_3_Bridged12,Jumper:SolderJumper_3_Bridged12,Jumper:SolderJumper-3_P1.3mm_Bridged12_Pad1.0x1.5mm,~
+14,1,JP3,Termination,Jumper:SolderJumper_2_Bridged,Jumper:SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm,~
+15,1,P1,J1B1211CCD,J1B1211CCD:J1B1211CCD,connector_xtra:J1B1211CCD,
+16,1,R1,120,Device:R,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,~
+17,3,"R2, R3, R4",10k,Device:R,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,~
+18,1,SW1,ON_OFF,Connector_Generic:Conn_01x03,"Connector_Phoenix_MSTB:PhoenixContact_MSTBVA_2,5_3-G-5,08_1x03_P5.08mm_Vertical",~
+19,1,U1,TXB0104PW,Logic_LevelTranslator:TXB0104PW,Package_SO:TSSOP-14_4.4x5mm_P0.65mm,http://www.ti.com/lit/ds/symlink/txb0104.pdf
+20,1,U2,LT1785xS8,Interface_UART:LT1785xS8,Package_SO:SOIC-8_3.9x4.9mm_P1.27mm,https://www.analog.com/media/en/technical-documentation/data-sheets/LT1785-1785A-1791-1791A.pdf
+21,1,U3,Teensy4.1,teensy:Teensy4.1,teensy:Teensy41,
+22,1,U4,OKI-78SR-5_1.5-W36-C,Converter_DCDC:OKI-78SR-5_1.5-W36-C,Converter_DCDC:Converter_DCDC_muRata_OKI-78SR_Vertical,https://power.murata.com/data/power/oki-78sr.pdf
+23,1,U5,MAX3221,Interface_UART:MAX3221,Package_SO:TSSOP-16_4.4x5mm_P0.65mm,http://www.ti.com/lit/ds/symlink/max3221.pdf
